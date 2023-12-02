@@ -142,6 +142,15 @@ def update_output_container(input_year, selected_statistics):
 if __name__ == '__main__':
     app.run_server(debug=True)
 
+#Run the Application
+    #Firstly, install setuptools, packaging, pandas and dash using the following command
+        #pip3.8 install setuptools
+        #python3.8 -m pip install packaging
+        #python3.8 -m pip install pandas dash
+    #Run the python file using the command
+        #python3.8 DV0101EN-Final_Assign_Part_2_Questions.py
+        #Observe the port number shown in the terminal.
+        # Click on the Launch Application option from the side menu bar. Provide the port number(8050) and click OK
 
 # Project Complete By SHUBHAM
 #Profile Link - https://www.linkedin.com/in/shubhamtomer/
