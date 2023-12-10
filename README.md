@@ -18,6 +18,10 @@ Data science is one of the hottest professions of the decade, and the demand for
 * Apply and compare machine learning classification algorithms to predict whether a loan case will be paid off or not
 * Train and compare machine learning models to predict if a space launch can reuse the first stage of a rocket
 
+**Skills:** Databases, Data visualization, Statistical analysis, Predictive modeling, Machine learning algorithms, and Data mining.
+
+**Latest languages, Tools and libraries:** Python, SQL, Jupyter notebooks, Github, Rstudio, Pandas, Numpy, ScikitLearn, Matplotlib, and more.
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtomershiv&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
