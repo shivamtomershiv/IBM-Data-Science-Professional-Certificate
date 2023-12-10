@@ -6,7 +6,7 @@ Part of the IBM Data Science Professional Certificate, multiple assignments for 
 ### Collecting the Data
 * Complete the Data Collection API Lab
 * Complete the Data Collection with Web Scraping lab
-## Data Wrangling
+### Data Wrangling
 * Data Wrangling
 
 ## Week 02 Exploratory Data Analysis (EDA)
