@@ -4,7 +4,7 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 ## Week 01 Introduction
 
 ### Collecting the Data
-* Complete the Data Collection API Lab [Click Here](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2001/jupyter%20labs%20spacex%20data%20collection%20api.ipynb)
+* Complete the Data Collection API Lab [Link](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2001/jupyter%20labs%20spacex%20data%20collection%20api.ipynb)
 * Complete the Data Collection with Web Scraping lab
 ### Data Wrangling
 * Data Wrangling
