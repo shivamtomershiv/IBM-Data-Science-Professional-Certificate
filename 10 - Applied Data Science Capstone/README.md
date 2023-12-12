@@ -21,3 +21,8 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 ### Interactive Visual Analytics and Dashboard
 * Interactive Visual Analytics with Folium lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2003/lab_jupyter_launch_site_location.ipynb)
 * Build an Interactive Dashboard with Ploty Dash [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2003/SpaceX%20Launch%20Records%20Dashboard.py)
+
+## Week 04 Predictive Analysis (Classification)
+
+### Predictive Analysis (Classification)
+* Complete the Machine Learning Prediction lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2004/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
