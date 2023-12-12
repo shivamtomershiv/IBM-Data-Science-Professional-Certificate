@@ -19,5 +19,5 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 ## Week 03 Interactive Visual Analytics and Dashboard
 
 ### Interactive Visual Analytics and Dashboard
-* Interactive Visual Analytics with Folium lab
-* Build an Interactive Dashboard with Ploty Dash 
+* Interactive Visual Analytics with Folium lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2003/lab_jupyter_launch_site_location.ipynb)
+* Build an Interactive Dashboard with Ploty Dash [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2003/SpaceX%20Launch%20Records%20Dashboard.py)
