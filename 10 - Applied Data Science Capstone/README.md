@@ -16,3 +16,8 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 ### Exploratory Analysis Using Pandas and Matplotlib
 * EDA with Visualization Lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2002/jupyter%20labs%20eda%20dataviz.ipynb)
 
+## Week 03 Interactive Visual Analytics and Dashboard
+
+### Interactive Visual Analytics and Dashboard
+* Interactive Visual Analytics with Folium lab
+* Build an Interactive Dashboard with Ploty Dash 
