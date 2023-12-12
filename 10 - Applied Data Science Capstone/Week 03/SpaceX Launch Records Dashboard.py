@@ -106,3 +106,6 @@ def update_scattergraph(site_dropdown,payload_slider):
 
 if __name__ == '__main__':
     app.run_server(debug=False)
+
+
+# Steps (https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTS1EUzAzMjFFTi1Ta2lsbHNOZXR3b3JrL2xhYnMvbW9kdWxlXzMvbGFiX3RoZWlhX3Bsb3RseV9kYXNoLm1kIiwidG9vbF90eXBlIjoidGhlaWFkb2NrZXIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3MjYzM30.Nl50t86wpbvn439i1o9_C-o0SQisuWer5VEF2_6dtAA)
