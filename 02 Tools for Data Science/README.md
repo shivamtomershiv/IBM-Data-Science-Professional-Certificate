@@ -94,6 +94,7 @@ RStudio is an integrated development environment (IDE) designed specifically for
 ## Small Assignment while this Course
 * [Getting Started with Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Getting%20Started%20with%20Jupyter%20Notebooks.ipynb)
 * [Using Markdown in Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Using%20Markdown%20in%20Jupyter%20Notebooks.ipynb)
+* [Working with Files in Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Working%20with%20Files%20in%20Jupyter%20Notebooks.ipynb)
 * 
 
 
