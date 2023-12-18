@@ -142,6 +142,8 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Open source tool board](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0130EN-SkillsNetwork/storyline/Open%20Source%20Tools/story.html?origin=www.coursera.org)
 * [Additional Sources of Datasets](https://drive.google.com/file/d/1QKLd87dCIVwevpTzuZxSTx9kzeca1RZa/view?usp=drivesdk)
 * [Getting started with the Model Asset eXchange and the Data Asset Exchange](https://drive.google.com/file/d/1pq0J0N4oLlFuvin0iIynYuf2PsSU2IAI/view?usp=drivesdk)
+* [Download & Install Anaconda](https://drive.google.com/file/d/1psQyX46k-B5S80uqSss6YVoFEylvSOhd/view?usp=drivesdk)
+* [Jupyter Notebooks on the Internet](https://drive.google.com/file/d/1f4T1YDHbJTJ4OKFkf6fgq1zesYohGcmL/view?usp=drivesdk)
 * 
 
 # Certification and Batch
