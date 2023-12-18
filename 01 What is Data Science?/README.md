@@ -2,7 +2,7 @@ Data scientists use data analysis to add to the knowledge of the organization by
 When the data has revealed its insights, the role of the data scientist becomes that of a storyteller, communicating the results to the project stakeholders. Data scientists can use powerful data visualization tools to help stakeholders understand the nature of the results, and the recommended action to take. Data Science is changing the way we work; it's changing the way we use data and it’s changing the way organisations understand the world.
 
 
-## Reading File Materials in PDF
+## PDF Reading File Materials
 * [The Sexiest Job in the 21st Century](https://drive.google.com/file/d/1Ir5GnN5TQRzd2DUau12rn3NH3e8OL8Hr/view?usp=drivesdk)
 * [What Makes Someone a Data Scientist?](https://drive.google.com/file/d/12ZjSzl2v0MepBnYNK2lQqX17h6tBC4xq/view?usp=drivesdk)
 * [Data Mining](https://drive.google.com/file/d/1btp5mjqLa66lB-mFHrd6fsXynDWPbmAs/view?usp=drivesdk)
