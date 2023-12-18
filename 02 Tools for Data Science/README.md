@@ -90,6 +90,46 @@ RStudio is an integrated development environment (IDE) designed specifically for
 > * You can use Red Hat OpenShift, a Kubernetes platform, to automate deployment, scaling, and management of microservices.
 > 
 > * Ml-exchange.org has multiple predefined models.
+>
+> * Jupyter Notebooks are used in Data Science for recording experiments and projects.
+
+> * Jupyter Lab is compatible with many files and Data Science languages.
+
+> * There are different ways to install and use Jupyter Notebooks.
+
+> * How to run, delete, and insert a code cell in Jupyter Notebooks.
+
+> * How to run multiple notebooks at the same time.
+
+> * How to present a notebook using a combination of Markdown and code cells.
+
+> * How to shut down your notebook sessions after you have completed your work on them.
+
+> * Jupyter implements a two-process model with a kernel and a client.
+
+> * The notebook server is responsible for saving and loading the notebooks.
+
+> * The kernel executes the cells of code contained in the Notebook. 
+
+> * The Jupyter architecture uses the NB convert tool to convert files to other formats.
+
+> * Jupyter implements a two-process model with a kernel and a client.
+
+> * The Notebook server is responsible for saving and loading the notebooks.
+
+> * The Jupyter architecture uses the NB convert tool to convert files to other formats.
+
+> * The Anaconda Navigator GUI can launch multiple applications on a local device.
+
+> * Jupyter environments in the Anaconda Navigator include JupyterLab and VS Code.
+
+> * You can download Jupyter environments separately from the Anaconda Navigator, but they may not be configured properly.
+
+> * The Anaconda Navigator GUI can launch multiple applications.
+
+> * Additional open-source Jupyter environments include JupyterLab, JupyterLite, VS Code, and Google Colaboratory. 
+
+> * JupyterLite is a browser-based tool.
 
 ## Small Assignment while this Course
 * [Getting Started with Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Getting%20Started%20with%20Jupyter%20Notebooks.ipynb)
