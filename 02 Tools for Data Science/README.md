@@ -130,6 +130,42 @@ RStudio is an integrated development environment (IDE) designed specifically for
 > * Additional open-source Jupyter environments include JupyterLab, JupyterLite, VS Code, and Google Colaboratory. 
 >
 > * JupyterLite is a browser-based tool.
+>
+> * The capabilities of R and its uses in Data Science.
+>
+> * The RStudio interface for running R codes. 
+>
+> * Popular R packages for Data Science.
+>
+> * Popular data visualization packages in R.
+>
+> * Plotting with the inbuilt R plot function.
+>
+> * Plotting with ggplot.
+>
+> * Adding titles and changing the axis names using the ggtitle and lab’s function.
+>
+> * A Distributed Version Control System (DVCS) keeps track of changes to code, regardless of where it is stored. 
+>
+> * Version control allows multiple users to work on the same codebase or repository, mirroring the codebase on their own computers if needed, while the distributed version control software helps manage synchronization amongst the various codebase mirrors.
+>
+> * Repositories are storage structures that:
+>
+>     * Store the code
+>
+>     * Track issues and changes
+>
+>     * Enable you to collaborate with others
+>
+> * Git is one of the most popular distributed version control systems. 
+>
+> * GitHub, GitLab and Bitbucket are examples of hosted version control systems.
+>
+> * Branches are used to isolate changes to code. When the changes are complete, they can be merged back into the main branch.
+>
+> * Repositories can be cloned to make it possible to work locally, then sync changes back to the original.
+
+
 
 ## Small Assignment while this Course
 * [Getting Started with Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Getting%20Started%20with%20Jupyter%20Notebooks.ipynb)
@@ -147,6 +183,14 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [R Basics with RStudio](https://drive.google.com/file/d/1AP10_NYhW7eu7vhqHLJV-Xsw_R-Hhq0E/view?usp=drivesdk)
 * [Getting started with RStudio and Installing packages](https://drive.google.com/file/d/1PsTQiDR9g9xlBBjmDcd55Xfk6X0Poy2K/view?usp=drivesdk)
 * [Creating Data Visualizations using ggplot](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTA1RU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZTIvcGxvdHRpbmdfd2l0aF9SLm1kIiwidG9vbF90eXBlIjoicnN0dWRpby1pZGUiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3MTAxNn0.cqYU3edA-L7g1cwK9JG7p1tO9jHwTJVqnxvJO6wh80s)
+* [Plotting with RStudio](https://drive.google.com/file/d/10Rfkq9jASAjS3pgyF-DH6ZInc6MLEXEk/view?usp=drivesdk)
+* [Getting Started with GitHub](https://drive.google.com/file/d/1XkX0XEvhkGZijdsfhFe_nT6-bIlFVUzf/view?usp=drivesdk)
+* [Getting Started with Branches using Git Commands](https://drive.google.com/file/d/1hKd_Nj6lL5teF_YabMn0maKPfWk61rQP/view?usp=drivesdk)
+* [Branching and Merging (Web UI)](https://drive.google.com/file/d/1PaybE5RIc5C6DvxVCGkJXDVg3EkbZ9Qf/view?usp=drivesdk)
+
+
+**Final**
+
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/1447954e-9923-4703-a647-eac80e5f0682/image.png">
