@@ -227,10 +227,10 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Creating a Watson Studio Project with Jupyter Notebooks](https://drive.google.com/file/d/1V3Q3Ywa_i6zpzGkmXIQT05kTXc7gAKW4/view?usp=drivesdk)
 
 
-**Final Assignment Instructions:**
+## Final Assignment Instructions:
 * [Create and Share Your Jupyter Notebook](https://drive.google.com/file/d/161wViwE2Q1bSmg4B0OAysCdv7tFamAhz/view?usp=drivesdk)
 
-**Final Assignment**
+## Final Assignment
 * [Create your Jupyter Notebook](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/DataScienceEcosystem.ipynb)
 
 # Certification and Batch
