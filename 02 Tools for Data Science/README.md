@@ -135,7 +135,6 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Getting Started with Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Getting%20Started%20with%20Jupyter%20Notebooks.ipynb)
 * [Using Markdown in Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Using%20Markdown%20in%20Jupyter%20Notebooks.ipynb)
 * [Working with Files in Jupyter Notebooks](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/Working%20with%20Files%20in%20Jupyter%20Notebooks.ipynb)
-* 
 
 
 ## PDF File Reading Materials
@@ -144,7 +143,10 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Getting started with the Model Asset eXchange and the Data Asset Exchange](https://drive.google.com/file/d/1pq0J0N4oLlFuvin0iIynYuf2PsSU2IAI/view?usp=drivesdk)
 * [Download & Install Anaconda](https://drive.google.com/file/d/1psQyX46k-B5S80uqSss6YVoFEylvSOhd/view?usp=drivesdk)
 * [Jupyter Notebooks on the Internet](https://drive.google.com/file/d/1f4T1YDHbJTJ4OKFkf6fgq1zesYohGcmL/view?usp=drivesdk)
-* 
+* [Download & Install R and RStudio](https://drive.google.com/file/d/1OUjkfSE0e8YckQ1VAnL0X-CC5z-bupvI/view?usp=drivesdk)
+* [R Basics with RStudio](https://drive.google.com/file/d/1AP10_NYhW7eu7vhqHLJV-Xsw_R-Hhq0E/view?usp=drivesdk)
+* [Getting started with RStudio and Installing packages](https://drive.google.com/file/d/1PsTQiDR9g9xlBBjmDcd55Xfk6X0Poy2K/view?usp=drivesdk)
+* [Creating Data Visualizations using ggplot](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstRFMwMTA1RU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZTIvcGxvdHRpbmdfd2l0aF9SLm1kIiwidG9vbF90eXBlIjoicnN0dWRpby1pZGUiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3MTAxNn0.cqYU3edA-L7g1cwK9JG7p1tO9jHwTJVqnxvJO6wh80s)
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/1447954e-9923-4703-a647-eac80e5f0682/image.png">
