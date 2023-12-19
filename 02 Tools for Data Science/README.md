@@ -164,6 +164,42 @@ RStudio is an integrated development environment (IDE) designed specifically for
 > * Branches are used to isolate changes to code. When the changes are complete, they can be merged back into the main branch.
 >
 > * Repositories can be cloned to make it possible to work locally, then sync changes back to the original.
+>
+> * Watson Studio is a helpful tool for:
+>
+>   * Analyzing and viewing data
+>
+>   * Cleaning and shaping data
+>
+>   * Embedding data into streams
+>
+>   * Creating, training, and deploying
+>
+> * Learning Watson Studio promotes career growth.
+>
+> * Learning Watson Studio is easy and requires no special skills.
+>
+> * Watson Studio offers many available resources.
+>
+> * You must create an IBM Cloud account to use Watson Studio.
+>
+> * You can open Watson Studio by clicking Catalog on the IBM Cloud dashboard and then AI/Machine Learning.
+>
+> * You can create an empty project or a project from a sample or file by selecting the Work with data option.
+>
+> * You can add a storage service by clicking Add and then selecting the storage service of your choice.
+>
+> * You can add or create a new notebook by clicking **New asset** on the project home page under the **Assets** tab.
+>
+> * You can share your notebook without sharing the sensitive cells.
+>
+> * Jobs are created and scheduled from the **Create a job** icon in the notebook action bar.
+>
+> * Jobs can be viewed, edited, or deleted on the project home page under the **Jobs** tab.
+>
+> * Jupyter Notebook runtime environments and templates can be found on the Environments tab in the Home Page.
+>
+> * You can create and change new Jupyter Notebook templates.
 
 
 
@@ -188,6 +224,7 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Getting Started with Branches using Git Commands](https://drive.google.com/file/d/1hKd_Nj6lL5teF_YabMn0maKPfWk61rQP/view?usp=drivesdk)
 * [Branching and Merging (Web UI)](https://drive.google.com/file/d/1PaybE5RIc5C6DvxVCGkJXDVg3EkbZ9Qf/view?usp=drivesdk)
 * [**Tools for data Science Glossary**](https://drive.google.com/file/d/1a9nSpJIuy3fERl68ULt7Nk9FtSLyOhpB/view?usp=drivesdk)
+* [Creating a Watson Studio Project with Jupyter Notebooks](https://drive.google.com/file/d/1V3Q3Ywa_i6zpzGkmXIQT05kTXc7gAKW4/view?usp=drivesdk)
 
 
 **Final Assignment Instructions:**
