@@ -187,10 +187,14 @@ RStudio is an integrated development environment (IDE) designed specifically for
 * [Getting Started with GitHub](https://drive.google.com/file/d/1XkX0XEvhkGZijdsfhFe_nT6-bIlFVUzf/view?usp=drivesdk)
 * [Getting Started with Branches using Git Commands](https://drive.google.com/file/d/1hKd_Nj6lL5teF_YabMn0maKPfWk61rQP/view?usp=drivesdk)
 * [Branching and Merging (Web UI)](https://drive.google.com/file/d/1PaybE5RIc5C6DvxVCGkJXDVg3EkbZ9Qf/view?usp=drivesdk)
+* [**Tools for data Science Glossary**](https://drive.google.com/file/d/1a9nSpJIuy3fERl68ULt7Nk9FtSLyOhpB/view?usp=drivesdk)
 
 
-**Final**
+**Final Assignment Instructions:**
+* [Create and Share Your Jupyter Notebook](https://drive.google.com/file/d/161wViwE2Q1bSmg4B0OAysCdv7tFamAhz/view?usp=drivesdk)
 
+**Final Assignment**
+* [Create your Jupyter Notebook]()
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/1447954e-9923-4703-a647-eac80e5f0682/image.png">
