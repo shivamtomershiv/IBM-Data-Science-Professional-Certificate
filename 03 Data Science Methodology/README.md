@@ -4,11 +4,24 @@
 > Different 
 
 > [!NOTE]
-> **Quick Reading** 
+> **Quick Reading**
+>
+> * The need to understand and prioritize the business goal.
+> 
+> * The way stakeholder support influences a project.
+> 
+> * The importance of selecting the right model.
+> 
+> * When to use a predictive, descriptive, or classification model.
+> 
 
 ## Small Assignment while this Course
+* [From Problem to Approach](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/From%20Problem%20to%20Approach.ipynb)
+* 
 
 ## PDF File Reading Materials
+* [Introduction to CRISP - DM](https://drive.google.com/file/d/1uPlBYBJMZS1A8AIflMiCTPHdjiCbnc_Z/view?usp=drivesdk)
+* 
 
 ## Final Assignment Instructions:
 
