@@ -6,7 +6,7 @@
 > This repository contains all the reading resources provided and I am adding all my projects created during this course.
 
 > [!WARNING]
-> We will not share the answers of quiz or test.
+> I will not share the **Quiz** answers or test. I am sharing my assignments and projects made during this course in this repository and I am creating this repository for revision.
 
 ## About this Professional Certificate
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
