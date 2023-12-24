@@ -12,7 +12,7 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 ## Week 02 Exploratory Data Analysis (EDA)
 
 ### Exploratory Analysis Using SQL
-* Complete the EDA with SQL
+* Complete the EDA with SQL [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2002/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 ### Exploratory Analysis Using Pandas and Matplotlib
 * EDA with Visualization Lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2002/jupyter%20labs%20eda%20dataviz.ipynb)
 
