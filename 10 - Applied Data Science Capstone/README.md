@@ -26,3 +26,8 @@ In this capstone, The Falcon 9 first stage will land successfully. SpaceX advert
 
 ### Predictive Analysis (Classification)
 * Complete the Machine Learning Prediction lab [🔗](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/Week%2004/SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
+
+
+# Certification and Batch
+<img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png">
+<img  align="left"  alt="IBM" width="500" src="https://coursera-certificate-images.s3.amazonaws.com/QNA9P7TWN8AQ">
