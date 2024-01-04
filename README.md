@@ -23,7 +23,7 @@ Data science is one of the hottest professions of the decade, and the demand for
 * [01 What is Data Science?](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/01%20What%20is%20Data%20Science%3F/README.md)
 * [02 Tools for Data Science](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/README.md)
 * [03 Data Science Methodology](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/README.md)
-* [04 Python for Data Science, AI & Development]
+* [04 Python for Data Science, AI & Development](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/tree/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
 * [10 Applied Data Science Capstone](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/10%20-%20Applied%20Data%20Science%20Capstone/README.md)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtomershiv&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
