@@ -31,5 +31,5 @@ Data science is one of the hottest professions of the decade, and the demand for
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="300" src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png">
-<img  align="left"  alt="IBM" width="580" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W.jpeg">
+<img  align="left"  alt="IBM" width="550" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W.jpeg">
 
