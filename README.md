@@ -33,5 +33,5 @@ Data science is one of the hottest professions of the decade, and the demand for
 
 <img  align="left"  alt="IBM" width="100%" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W.jpeg">
 
-<img  align="right"  alt="IBM" width="100%" src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png">
+<img  align="Centre"  alt="IBM" width="70%" src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png">
 
