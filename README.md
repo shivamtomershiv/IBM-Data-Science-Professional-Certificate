@@ -28,11 +28,8 @@ Data science is one of the hottest professions of the decade, and the demand for
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamtomershiv&show_icons=true&locale=en&layout=compact" alt="shivamtomershiv" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="300" src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png">
-<img  align="left"  alt="IBM" width="600" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W.jpeg">
+<img  align="left"  alt="IBM" width="580" src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W/CERTIFICATE_LANDING_PAGE~D7AMVCFX9B4W.jpeg">
 
