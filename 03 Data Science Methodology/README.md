@@ -1,9 +1,6 @@
 # Data Science Methodology
 
 > [!NOTE]
-> Different 
-
-> [!NOTE]
 > **Quick Reading**
 >
 > * The need to understand and prioritize the business goal.
@@ -19,6 +16,7 @@
 * [From Problem to Approach](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/From%20Problem%20to%20Approach.ipynb)
 * [From Requirements to Collection](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/From%20Requirements%20to%20Collection.ipynb)
 * [From Understanding to Preparation](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/From%20Understanding%20to%20Preparation.ipynb)
+* [From Modeling to Evaluation](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/03%20Data%20Science%20Methodology/From_Modeling_to_Evaluation.ipynb)
 
 ## PDF File Reading Materials
 * [Introduction to CRISP - DM](https://drive.google.com/file/d/1uPlBYBJMZS1A8AIflMiCTPHdjiCbnc_Z/view?usp=drivesdk)
