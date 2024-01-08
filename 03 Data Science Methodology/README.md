@@ -1,7 +1,7 @@
 # Data Science Methodology
 
 > [!NOTE]
-> **Quick Reading**
+>  **Quick Reading**
 >
 > * The need to understand and prioritize the business goal.
 > 
