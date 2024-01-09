@@ -4,11 +4,10 @@
 >  **Quick Reading**
 
 ## Small Assignment while this Course
-* [Your First Program, Types, Expressions, and Variables](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Week%2001/Your%20First%20Program%2C%20Types%2C%20Expressions%2C%20and%20Variables.ipynb)
-* 
+* [Your First Program, Types, Expressions, and Variables](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Your%20First%20Program%2C%20Types%2C%20Expressions%2C%20and%20Variables.ipynb)
+* [Strings](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Strings.ipynb)
 
 ## PDF File Reading Materials
-* 
 
 ## CheatSheets
 * [**Module 1:** Python Basics](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL0NoZWF0X1NoZWV0X1dlZWstMS5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDEwODk3NzB9.h-MgIUtPWg6zgydWci8VMfs8NPsBYLcE2Artbs7Ou5s)
