@@ -8,6 +8,7 @@
 * 
 
 ## PDF File Reading Materials
+* [Module 1 Cheatsheet: Python Basics](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL0NoZWF0X1NoZWV0X1dlZWstMS5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDEwODk3NzB9.h-MgIUtPWg6zgydWci8VMfs8NPsBYLcE2Artbs7Ou5s)
 * 
 
 # Certification and Batch
