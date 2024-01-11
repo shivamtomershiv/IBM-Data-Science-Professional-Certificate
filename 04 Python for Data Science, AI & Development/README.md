@@ -7,7 +7,7 @@
 * [Your First Program, Types, Expressions, and Variables](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Your%20First%20Program%2C%20Types%2C%20Expressions%2C%20and%20Variables.ipynb)
 * [Strings](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Strings.ipynb)
 * [Lists](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Lists.ipynb)
-* 
+* [Tuples](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Tuples.ipynb)
 
 ## PDF File Reading Materials
 
