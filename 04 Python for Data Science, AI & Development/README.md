@@ -8,6 +8,7 @@
 * [Strings](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Strings.ipynb)
 * [Lists](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Lists.ipynb)
 * [Tuples](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Tuples.ipynb)
+* [Sets](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Sets.ipynb)
 
 ## PDF File Reading Materials
 
@@ -20,6 +21,7 @@
 * [Lists and Tuples](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL2hhbmRvdXRzL0NoZWF0X1NoZWV0X1dlZWstMi5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDEwODk0NDl9.0TwC5FSGpJzJbQ3qH5aEORC4y3lYrirQOR1icLLGlFY)
 * [Dictionaries & Sets](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL2hhbmRvdXRzL0NoZWF0X1NoZWV0X1dlZWstMl9QYXJ0LTIubWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzAxMDg5NTQ3fQ.K0DiXEQFuAvcnPm-6kYqLVLRl_U29VvokQZXBY7oNXE)
 
+### **Module 2:**
 
 # Certification and Batch
 <img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png">
