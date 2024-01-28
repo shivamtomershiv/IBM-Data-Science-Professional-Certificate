@@ -15,3 +15,6 @@ For this project you will use Skills Network Labs and Watson Studio. Skills Netw
 **Review criteria**
 
 There are two hands-on labs on Extracting Stock Data and one assignment to complete. You will be judged by completing two quizzes and one peer review assignment. The quizzes will test you based on the output of the hands-on labs. In the peer review assignment you will share and take screen shots of the outcomes of your assignment.
+
+
+[yfinance Library](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMjIwRU4tU2tpbGxzTmV0d29yay9sYWJzL3Byb2plY3QvWWZpbmFuY2VfcmVhZGluZy5tZC5tZCIsInRvb2xfdHlwZSI6Imluc3RydWN0aW9uYWwtbGFiIiwiYWRtaW4iOmZhbHNlLCJpYXQiOjE3MDA2NzQwOTZ9.Yxs0HynVMkt5mqqOKfgy1QnC8Sj-_LQ3MG6YnW1mFk8)
