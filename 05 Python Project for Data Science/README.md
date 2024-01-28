@@ -22,5 +22,5 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 
 # Certification and Batch
   
-<img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png">
+[<img align="right" width="400" src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png">](https://www.credly.com/go/P5RlrZep)
 <img  align="left"  alt="IBM" width="500" src="https://coursera-certificate-images.s3.amazonaws.com/HJKMTF52V7E2">
