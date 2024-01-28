@@ -25,7 +25,7 @@
 * [Access REST APIs & Request HTTP](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Access%20REST%20APIs%20%26%20Request%20HTTP.ipynb)
 * [API Examples](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/API%20Examples.ipynb)
 * [Webscraping](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Webscraping.ipynb)
-* [Working with different file formats]()
+* [Working with different file formats](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/04%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/Working%20with%20different%20file%20formats.ipynb)
 
 ## PDF File Reading Materials
 * [Conditions and Branching](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMTAxRU4tU2tpbGxzTmV0d29yay9sYWJzL01vZHVsZV8zL0NvbmRpdGlvbmFsX2JyYW5jaGluZ19SZWFkaW5nLm1kIiwidG9vbF90eXBlIjoiaW5zdHJ1Y3Rpb25hbC1sYWIiLCJhZG1pbiI6ZmFsc2UsImlhdCI6MTcwMDY3NTY0M30.O-a59EP0qUnEEKZ_SmXyONqK75sVaqvpnNdlah5ojv0)
