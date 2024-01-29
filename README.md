@@ -1,7 +1,11 @@
 <img align="center" width="400" src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo-7.png">
 
 #  IBM Data Science Professional Certificate
+
+<img align="right" width="400" src="https://logodownload.org/wp-content/uploads/2014/04/ibm-logo-7.png">
+
 > Data science involves extracting insights and knowledge from data through various techniques, including statistics, machine learning, and data analysis. It encompasses cleaning and processing data, exploring patterns, and building models to make predictions or uncover hidden patterns. Data scientists use programming languages like Python or R and tools like TensorFlow or scikit-learn to analyze and interpret complex datasets, helping businesses and organizations make informed decisions.
+
 
 > This repository contains all the reading resources provided and I am adding all my projects created during this course.
 
