@@ -233,6 +233,4 @@ RStudio is an integrated development environment (IDE) designed specifically for
 ## Final Assignment
 * [Create your Jupyter Notebook](https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate/blob/main/02%20Tools%20for%20Data%20Science/DataScienceEcosystem.ipynb)
 
-# Certification and Batch
-<img  align="right"  alt="IBM" width="400" src="https://images.credly.com/size/680x680/images/1447954e-9923-4703-a647-eac80e5f0682/image.png">
-<img  align="left"  alt="IBM" width="500" src="https://coursera-certificate-images.s3.amazonaws.com/SLQHM4V5VAXV">
+
