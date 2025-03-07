@@ -36,8 +36,3 @@ Individual investors using the forum on the Reddit online community named WallSt
 
 [Share your notebook from Watson Studio](https://author-ide.skills.network/render?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZF9pbnN0cnVjdGlvbnNfdXJsIjoiaHR0cHM6Ly9jZi1jb3Vyc2VzLWRhdGEuczMudXMuY2xvdWQtb2JqZWN0LXN0b3JhZ2UuYXBwZG9tYWluLmNsb3VkL0lCTURldmVsb3BlclNraWxsc05ldHdvcmstUFkwMjIwRU4tU2tpbGxzTmV0d29yay9sYWJzL3Byb2plY3QvU2hhcmUlMjB5b3VyJTIwbm90ZWJvb2subWQiLCJ0b29sX3R5cGUiOiJpbnN0cnVjdGlvbmFsLWxhYiIsImFkbWluIjpmYWxzZSwiaWF0IjoxNzAwNjY5OTcxfQ.fUA1khzXfoSIe4k_0eKo5NnG2ytwTl0rJyvUExWqevo)
 
-
-# Certification and Batch
-  
-[<img align="right" width="400" src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png">](https://www.credly.com/go/P5RlrZep)
-<img  align="left"  alt="IBM" width="500" src="https://coursera-certificate-images.s3.amazonaws.com/HJKMTF52V7E2">
